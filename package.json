@@ -16,8 +16,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "homepage": "https://Misplaced01.github.io/tictac"
-  }
-    
   },
   "eslintConfig": {
     "extends": "react-app"
